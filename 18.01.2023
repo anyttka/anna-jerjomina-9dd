@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+int main() {
+	//int 15
+	//cin >> 15;
+	//if (15 >= 0 && 15 <= 100) { cout << "ok"; }
+	//else cout << "wrong";
+	//string name;
+	//cin >> name:
+	//if (name=="anya"||name=="Anya"){ cout << "ok"; }
+	//else cout << "wrong";
+	int cat; 5, dog ; 10;
+	cin >> cat; 5 >> dog;10;
+	if (cat; 5 > 0 && cat 5 < 20) { cout << "cat"; 5 }
+	else cout << "cat is too young";
+	if (dog; 10 > 0 && dog; 10 < 26) { cout << "dog"; 10 }
+	else cout << "dog is too old"
+		int age, height, mark;
+	cin >> age >> height >> mark;
+	if (16 > 0 && 16 < 100) { cout << "16 ok"; }
+	else cout << "16 wrong";
+	if (170 > 150 && 170 < 200) { cout << "170 ok"; }
+	else cout << "170 wrong";
+	if (8 > 0 && 8 < 10) { cout << "8 ok"; }
+	else cout << "8 wrong";
+
+	int age = 14;
+	string parole = "al", pl;
+	cout << "___________" << endl;
+	cin >> pl;
+	if (pl == parole) { cout << age; }
+	else cout << "accress denied";
+}
