@@ -1,0 +1,58 @@
+#include <vector>
+#include <string>
+#include <iostream>
+
+using namespace std;
+int main() {
+//vector <int> sk{ 1,2,3,1,3 };
+//cout << sk[0]<<sk[1]<< sk[2]<< sk[3]<<sk[4] << endl;
+//if (sk[0] == 1)cout << "pirmaja vieta ir 1" << end;
+//if (sk[1] == 1)cout << "otraja vieta ir 1" << end;
+//if (sk[2] == 1)cout << "tresaja vieta ir 1" << end;
+//if (sk[3] == 1)cout << "ceturtaja vieta ir 1" << end;
+//if (sk[4] == 1)cout << "piejtaja vieta ir 1" << end;
+//if (sk[0] == 2)cout << "pirmaja vieta ir 2" << end;
+//if (sk[1] == 2)cout << "otraja vieta ir 2" << end;
+//if (sk[2] == 2)cout << "tresaja vieta ir 2" << end;
+//if (sk[3] == 2)cout << "ceturtaja vieta ir 2" << end;
+//if (sk[4] == 2)cout << "piejtaja vieta ir 2" << end;
+//if (sk[0] == 3)cout << "pirmaja vieta ir 3" << end;
+//if (sk[1] == 3)cout << "otraja vieta ir 3" << end;
+//if (sk[2] == 3)cout << "tresaja vieta ir 3" << end;
+//if (sk[3] == 3)cout << "ceturtaja vieta ir 3" << end;
+//if (sk[4] == 3)cout << "piejtaja vieta ir 3" << end;
+//if (sk[0] == 4)cout << "pirmaja vieta ir 4" << end;
+//if (sk[1] == 4)cout << "otraja vieta ir 4" << end;
+//if (sk[2] == 4)cout << "tresaja vieta ir 4" << end;
+//if (sk[3] == 4)cout << "ceturtaja vieta ir 4" << end;
+//if (sk[4] == 4)cout << "piejtaja vieta ir 4" << end;
+//else cout << "Nav sk.";
+
+	/*string atb, num;
+	vector <string> country{ "USA", "UK", "China", "India", "Canada", "Australia" };
+	vector <string> code{ " +1" "+44" "+86 " "+91" "+1" "+61" };
+	cin >> atb >> num;
+	if (code[0] == atb) { cout << country[0] << " " << atb << num << endl; }
+	if (code[1] == atb) { cout << country[1] << " " << atb << num << endl; }
+	if (code[2] == atb) { cout << country[2] << " " << atb << num << endl; }
+	if (code[3] == atb) { cout << country[3] << " " << atb << num << endl; }
+	if (code[4] == atb) { cout << country[4] << " " << atb << num << endl; }*/
+
+//string nam, atz;
+
+//vector Vards{ "Artjoms", "Vernon", "Nikita","Semen"," Sidr" };
+//vector Atzime{9,10,5,9,6};
+//cout << Atzime[0] << " " << Vards[0] << endl;
+//cout << Atzime[1] << " " << Vards[1] << endl;
+//cout << Atzime[2] << " " << Vards[2] << endl;
+//cout << Atzime[3] << " " << Vards[3] << endl;
+//cout << Atzime[4] << " " << Vards[4] << endl;
+//cin >> nam >> atz;
+//if (Atzime[0] == 9) { cout << Vards[0] << " " << nam << atz << endl; }
+//if (Atzime[1] == 10) { cout << Vards[1] << " " << nam << atz << endl; }
+//if (Atzime[2] == 5) { cout << Vards[2] << " " << nam << atz << endl; }
+//if (Atzime[3] == 9) { cout << Vards[3] << " " << nam << atz << endl; }
+//if (Atzime[4] == 6) { cout << Vards[4] << " " << nam << atz << endl; }
+//else cout << " :((((";
+
+}
